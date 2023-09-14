@@ -1,20 +1,32 @@
-(
+[
     {
+        "Doadores"
+        Nome:
+
         "Nome": ,
         "Sobrenome": ,
-        "NomeCompleto": ,
-        "Idioma"
+        "Nome Completo": ,
+        "Idioma": ,
 
-        "Logradouro":, 
-        "Número": ,
+        Endereço: //CHAVE
+        "Logradouro" : ,
+        "Número": , //NUMBER
         "Bairro": ,
-        "CEP": ,
-        "Cidade": ,
-        "Estado": ,
+        "CEP": , //NUMBER
+        "ESTADO": ,
+        "PAÍS": ,
+        "UF":, 
 
+        
+        Contato:
+        "Telefone": ,
+        "Celular": ,
 
+        Email:
+        "Email¹":,
+        "Email²":,
+
+        
+        
     }
-
-
-
-)    
+]
